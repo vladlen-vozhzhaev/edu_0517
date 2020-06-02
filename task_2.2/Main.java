@@ -16,7 +16,7 @@
 
 */
 
-public class Solution {
+public class Main {
     public static int min(int a, int b, int c, int d) {
         //напишите тут ваш код
 
