@@ -26,7 +26,7 @@ public class Main {
         //напишите тут ваш код
     }
 }
-public static class Mouse {
+class Mouse {
     String name;
     int height;
     int tail;
